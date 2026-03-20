@@ -1,38 +1,8 @@
 [
   {
-    "id": "mmzfglbya9eshb",
-    "name": "Chat 21/3/2026, 04.45.06",
-    "createdAt": "2026-03-20T21:45:06.046Z",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Halo"
-      },
-      {
-        "role": "assistant",
-        "content": "Halo.  \nLagi mau ngapain?"
-      }
-    ]
-  },
-  {
-    "id": "mmzfglbya9eshb",
-    "name": "Chat 21/3/2026, 04.45.06",
-    "createdAt": "2026-03-20T21:45:06.046Z",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Halo"
-      },
-      {
-        "role": "assistant",
-        "content": "Halo.  \nLagi mau ngapain?"
-      }
-    ]
-  },
-  {
-    "id": "mmzfgfizwn2v8g",
+    "id": "mmzfijtka9upjc",
     "name": "Default Chat",
-    "createdAt": "2026-03-20T21:44:58.523Z",
+    "createdAt": "2026-03-20T21:46:37.400Z",
     "messages": []
   }
 ]
