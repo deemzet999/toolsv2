@@ -7,6 +7,10 @@
       {
         "role": "user",
         "content": "Halo"
+      },
+      {
+        "role": "assistant",
+        "content": "Halo.  \nLagi mau ngapain?"
       }
     ]
   },
@@ -18,6 +22,10 @@
       {
         "role": "user",
         "content": "Halo"
+      },
+      {
+        "role": "assistant",
+        "content": "Halo.  \nLagi mau ngapain?"
       }
     ]
   },
