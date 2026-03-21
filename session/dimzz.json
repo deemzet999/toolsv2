@@ -3,11 +3,6 @@
     "id": "mmzfijtka9upjc",
     "name": "Default Chat",
     "createdAt": "2026-03-20T21:46:37.400Z",
-    "messages": [
-      {
-        "role": "user",
-        "content": "hi"
-      }
-    ]
+    "messages": []
   }
 ]
