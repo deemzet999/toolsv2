@@ -7,6 +7,14 @@
       {
         "role": "user",
         "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! 👋 How can I help you today?"
+      },
+      {
+        "role": "user",
+        "content": "cara jadi ultramen"
       }
     ]
   }
