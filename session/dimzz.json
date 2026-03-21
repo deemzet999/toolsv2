@@ -7,6 +7,10 @@
       {
         "role": "user",
         "content": "P"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m not sure what you’re looking for with just “P.” Could you give me a bit more detail or let me know what topic you’d like to discuss? I’m here to help!"
       }
     ]
   }
