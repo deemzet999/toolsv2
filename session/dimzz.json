@@ -15,6 +15,10 @@
       {
         "role": "user",
         "content": "cara jadi ultramen"
+      },
+      {
+        "role": "user",
+        "content": "halo"
       }
     ]
   }
