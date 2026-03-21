@@ -8,5 +8,10 @@
     "username": "wongirengjembuten",
     "password": "ppkr",
     "role": "user"
+  },
+  {
+    "username": "user",
+    "password": "dimz",
+    "role": "user"
   }
 ]
